@@ -1,0 +1,15 @@
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\bin\Debug\net8.0\ShoppingMarket.Account.deps.json
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\bin\Debug\net8.0\ShoppingMarket.Account.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\bin\Debug\net8.0\ShoppingMarket.Account.pdb
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.AssemblyInfoInputs.cache
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.AssemblyInfo.cs
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.csproj.CoreCompileInputs.cache
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.sourcelink.json
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\refint\ShoppingMarket.Account.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.pdb
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ref\ShoppingMarket.Account.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.csproj.AssemblyReference.cache
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\bin\Debug\net8.0\ShoppingMarket.Account.runtimeconfig.json
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Account\obj\Debug\net8.0\ShoppingMarket.Account.genruntimeconfig.cache

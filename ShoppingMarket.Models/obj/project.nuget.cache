@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDqoAHAiNXM=",
+  "success": true,
+  "projectFilePath": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Models\\ShoppingMarket.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anasa\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\anasa\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\anasa\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\anasa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

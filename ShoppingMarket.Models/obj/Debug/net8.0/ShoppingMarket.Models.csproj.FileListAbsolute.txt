@@ -1,0 +1,13 @@
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\bin\Debug\net8.0\ShoppingMarket.Models.deps.json
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\bin\Debug\net8.0\ShoppingMarket.Models.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\bin\Debug\net8.0\ShoppingMarket.Models.pdb
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.AssemblyInfoInputs.cache
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.AssemblyInfo.cs
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.csproj.CoreCompileInputs.cache
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.sourcelink.json
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\refint\ShoppingMarket.Models.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.pdb
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ref\ShoppingMarket.Models.dll
+D:\c#\Asp.NetWebApi\ShoppingMarket\ShoppingMarket.Models\obj\Debug\net8.0\ShoppingMarket.Models.csproj.AssemblyReference.cache

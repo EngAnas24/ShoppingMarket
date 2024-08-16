@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CBF0A9-4F72-400B-A1CC-90DF7AE3B6B5}|ShoppingMarket\\ShoppingMarket.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket\\controllers\\accountcontroller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CBF0A9-4F72-400B-A1CC-90DF7AE3B6B5}|ShoppingMarket\\ShoppingMarket.csproj|solutionrelative:shoppingmarket\\controllers\\accountcontroller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CBF0A9-4F72-400B-A1CC-90DF7AE3B6B5}|ShoppingMarket\\ShoppingMarket.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CBF0A9-4F72-400B-A1CC-90DF7AE3B6B5}|ShoppingMarket\\ShoppingMarket.csproj|solutionrelative:shoppingmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\models\\myidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\models\\myidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\models\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\models\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|d:\\c#\\asp.netwebapi\\shoppingmarket\\shoppingmarket.account\\migrations\\20240812061601_refreshtokentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451A75-639B-492B-9EBA-62BDAE741751}|ShoppingMarket.Account\\ShoppingMarket.Account.csproj|solutionrelative:shoppingmarket.account\\migrations\\20240812061601_refreshtokentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket\\Controllers\\AccountController\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket\\Controllers\\AccountController\\AccountController.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket\\Controllers\\AccountController\\AccountController.cs",
+              "RelativeToolTip": "ShoppingMarket\\Controllers\\AccountController\\AccountController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:59:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingMarket\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:20:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240812061601_RefreshTokenTable.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Migrations\\20240812061601_RefreshTokenTable.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Migrations\\20240812061601_RefreshTokenTable.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Migrations\\20240812061601_RefreshTokenTable.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Migrations\\20240812061601_RefreshTokenTable.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:16:01.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\MyIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Models\\MyIdentityDbContext.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\MyIdentityDbContext.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Models\\MyIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:12:44.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:12:19.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:05:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Repositories\\Implementations\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Repositories\\Implementations\\AccountRepository.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Repositories\\Implementations\\AccountRepository.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Repositories\\Implementations\\AccountRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:01:48.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Services\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Services\\Implementations\\AccountService.cs",
+              "ViewState": "AQIAADEBAAAAAAAAAAAowCwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:01:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Models\\AuthModel.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\AuthModel.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Models\\AuthModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA/wA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:59:51.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RevokedToken.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\RevokedToken.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Models\\RevokedToken.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\RevokedToken.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Models\\RevokedToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:53:58.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "ShoppingMarket.Account\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\c#\\Asp.NetWebApi\\ShoppingMarket\\ShoppingMarket.Account\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "ShoppingMarket.Account\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:51:22.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
